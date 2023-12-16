@@ -1,4 +1,4 @@
-FROM ghcr.io/ndmacioce/ubuntu:rolling@sha256:a603e06a8d9068e414a654571bc3990c2a6e5edfdb2d0383a9ef1a1c5a478722
+FROM ghcr.io/ndmacioce/ubuntu:rolling@sha256:27135e0049f2f4a2d8af67dd3214abb757e2e01ba9919dcb728de5af1912e732
 
 ARG TARGETPLATFORM
 ARG BUILDPLATFORM
