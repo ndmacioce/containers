@@ -1,4 +1,4 @@
-FROM ghcr.io/ndmacioce/alpine:rolling@sha256:c57d9dd34b29af22b13dbb86000c6e7500b604ad0b232fa1b100726e11caf15f
+FROM ghcr.io/ndmacioce/alpine:rolling@sha256:bf939e889a1ac48d08fbaeeabb0b771396063bde2bf1e68a7577031dd604c2ca
 
 ARG TARGETPLATFORM
 ARG BUILDPLATFORM
